@@ -3,9 +3,11 @@
     margin: 20px;
 }
 div{
+    font-family: sans-serif;
     height: 300px;
     width: 600px;
     border: 5px solid salmon;
     padding: 10px;
     margin-bottom: 10px;
+    background-color: bisque;
 }
